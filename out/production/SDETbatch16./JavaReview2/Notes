@@ -1,0 +1,38 @@
+Type casting- converting value of one data type to another
+
+2 Types: widening/implicit/automatic
+         narrowing/explicit/manual
+
+Conditional Statements:
+1. if statement
+2. Switch statement
+
+if statement:
+
+Syntax:
+    if(condition) {
+            code A;
+
+       }
+
+       ----------------------
+       if(condition) {
+            code A;
+       }else {
+            code B;
+       }
+
+       -----------------------
+       Nested if
+
+       WHAT: if inside another if
+       WHY: when we have 1 condition depend on another
+       HOW:
+
+       if(condition) { -> outer if
+
+
+            if(condtion) { -> nested if
+       }
+
+       }

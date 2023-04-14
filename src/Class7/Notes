@@ -1,0 +1,17 @@
+Loops:
+    Loops help us repeat code till its false
+
+    Syntax:
+    while(condition){
+    //code that we want to repeat
+    }
+
+    "++" = increment operator (increase number by 1)
+    "--" = decrement operator (decrease number by 1)
+    % = means multiples of a number
+
+    Do While Loops:
+    Prints/execute code once THEN checks the condtion.
+
+    While Loops:
+    Checks condtion first THEN prints code.
